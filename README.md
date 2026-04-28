@@ -18,10 +18,10 @@ Script desenvolvido para simular a organização e priorização de chamados de 
 - Tickets urgentes exibidos no terminal
 - Relatório gerado automaticamente (`relatorio.csv`)
 
-## 📁 Estrutura do projeto
+## 📁 Estrutura do projeto 
 ticket-automation-python/
 ├── main.py
-├── README.md
+└── README.md
 
 ## 🎯 Objetivo
 Simular um cenário real de suporte técnico com automação de tarefas, organização de chamados e geração de relatórios.
