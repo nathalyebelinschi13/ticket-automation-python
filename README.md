@@ -25,9 +25,7 @@ Simular um cenário real de suporte técnico com automação de tarefas, organiz
 📁 Estrutura do projeto
 
 ticket-automation-python/
-
 ├── main.py
-
 ├── README.md
 
 ## 🚀 Como executar
