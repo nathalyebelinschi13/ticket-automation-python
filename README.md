@@ -22,21 +22,13 @@ Script desenvolvido para simular a organização e priorização de chamados de 
 ## 🎯 Objetivo
 Simular um cenário real de suporte técnico com automação de tarefas, organização de chamados e geração de relatórios.
 
-
 ---
-
-# ⭐ MELHORIAS OPCIONAIS (deixar nível portfólio)
-
-## 1. Estrutura do projeto
-Adiciona isso:
-
-```md id="p8x1ld"
-📁 Estrutura do projeto
+## 📁 Estrutura do projeto
 ticket-automation-python/
 ├── main.py
 ├── README.md
 
-🚀 Como executar
+## 🚀 Como executar
 
 ```bash
 py main.py
