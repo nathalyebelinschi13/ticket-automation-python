@@ -18,6 +18,7 @@ Script desenvolvido para simular a organização e priorização de chamados de 
 - Tickets urgentes exibidos no terminal
 - Relatório gerado automaticamente (`relatorio.csv`)
 
+
 ## 🎯 Objetivo
 Simular um cenário real de suporte técnico com automação de tarefas, organização de chamados e geração de relatórios.
 
